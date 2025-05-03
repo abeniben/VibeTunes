@@ -24,14 +24,14 @@ A mood-based music discovery web app that suggests tracks tailored to your emoti
    ```bash
    git clone https://github.com/your-username/vibetune.git
 2. Install dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 3. Add your YouTube API key to .env.local:
-  ```bash
-  YOUTUBE_KEY=your_api_key_here
+   ```bash
+   YOUTUBE_KEY=your_api_key_here
 4. Run locally:
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
 
 ## License
 MIT © Abenezer Teshome
