@@ -2,7 +2,7 @@
 
 A mood-based music discovery web app that suggests tracks tailored to your emotions, powered by the YouTube Data API.
 
-![VibeTune Screenshot]() *(Add a screenshot link here)*
+![VibeTune Screenshot]()
 
 ## Features
 
